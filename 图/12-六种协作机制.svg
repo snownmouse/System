@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" width="100%" font-family="system-ui, -apple-system, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">
+<rect width="760" height="500" fill="#ffffff"/>
+<text x="40" y="42" font-size="19" font-weight="600" fill="#2C2C2A">六种维持秩序的机制</text>
+<text x="40" y="66" font-size="13" fill="#5F5E5A">没有哪一条通吃。差别在见效快慢，也在要持续供多少能</text>
+<path d="M 120 430 L 690 430" stroke="#B4B2A9" stroke-width="1" fill="none"/>
+<path d="M 120 430 L 120 100" stroke="#B4B2A9" stroke-width="1" fill="none"/>
+<text x="405.0" y="464" font-size="12.5" fill="#888780" text-anchor="middle" font-weight="400">见效速度   慢 → 快</text>
+<text x="106" y="92" font-size="11.5" fill="#888780" text-anchor="end" font-weight="400">维持成本 高</text>
+<text x="106" y="444" font-size="11.5" fill="#888780" text-anchor="end" font-weight="400">低</text>
+<text x="124" y="464" font-size="11" fill="#B4B2A9" text-anchor="start" font-weight="400">慢</text>
+<text x="690" y="464" font-size="11" fill="#B4B2A9" text-anchor="end" font-weight="400">快</text>
+<circle cx="650" cy="140" r="7" fill="#A32D2D"/><text x="662.1" y="143.60000000000002" font-size="13" fill="#A32D2D" text-anchor="start" font-weight="600">强制与权力</text>
+<circle cx="650" cy="140" r="2.5" fill="#ffffff"/><circle cx="462" cy="192" r="26" fill="none" stroke="#185FA5" stroke-width="1.2" stroke-dasharray="5 4"/><text x="462.0" y="158.4" font-size="12.5" fill="#185FA5" text-anchor="middle" font-weight="600">技术与基础设施</text>
+<text x="462.0" y="236.4" font-size="11" fill="#185FA5" text-anchor="middle" font-weight="400">改变其余几条的参数</text>
+<circle cx="462" cy="192" r="2.5" fill="#ffffff"/><circle cx="565" cy="272" r="7" fill="#BA7517"/><text x="576.6" y="275.6" font-size="13" fill="#BA7517" text-anchor="start" font-weight="600">市场与交换</text>
+<circle cx="565" cy="272" r="2.5" fill="#ffffff"/><circle cx="200" cy="225" r="7" fill="#993556"/><text x="211.8" y="229.4" font-size="13" fill="#993556" text-anchor="start" font-weight="600">认同与文化</text>
+<circle cx="200" cy="225" r="2.5" fill="#ffffff"/><circle cx="177" cy="331" r="7" fill="#0F6E56"/><text x="189.0" y="335.0" font-size="13" fill="#0F6E56" text-anchor="start" font-weight="600">制度与法治</text>
+<circle cx="177" cy="331" r="2.5" fill="#ffffff"/><circle cx="314" cy="404" r="7" fill="#1D9E75"/><text x="325.8" y="407.6" font-size="13" fill="#1D9E75" text-anchor="start" font-weight="600">规范与信任</text>
+<circle cx="314" cy="404" r="2.5" fill="#ffffff"/><text x="120" y="470" font-size="12.5" fill="#2C2C2A" text-anchor="start" font-weight="400">最先断的往往不是性能最差的那一条，而是两条之间的接缝——两边都以为对方在管。</text>
+<text x="120" y="490" font-size="12.5" fill="#5F5E5A" text-anchor="start" font-weight="400">所以第一问永远是：这里的秩序靠哪几条撑着？哪一条撤掉，会先断？</text>
+</svg>
